@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Abdelrahman 👋</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://github.com/username"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> 
+    <a href="https://www.linkedin.com/in/abdelrahman-ahmed-4a6a05290/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://x.com/a_rohmaan"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://github.com/AEbdoRohman"> <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> 
     <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
